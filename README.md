@@ -2,12 +2,21 @@
 
 精选优质创意类 AI Agent Skills，让灵感变成作品。
 
-## 已收录
+## 分类收藏
 
-| Skill | 用途 | 作者 | 许可 |
+### 图像创作 · 照片艺术化
+
+| Skill | 用途 | 收录方式 | 许可 |
 | --- | --- | --- | --- |
-| [实景拼贴](skills/scenes-gathered-zine-v1-3) | 保留照片主体，融合抽象插画、色彩、手撕边缘与留白 | [Zeejay0](https://github.com/Zeejay0) | 个人非商业 |
-| [影像蒸馏](skills/scene-distillation-zine-v1-3) | 从照片提取场景关系与情绪，创作独立插画 | [Zeejay0](https://github.com/Zeejay0) | 个人非商业 |
+| [实景拼贴](skills/scenes-gathered-zine-v1-3) | 原始摄影与抽象插画、撕纸材质共同构图 | 完整镜像 | 个人非商业 |
+| [影像蒸馏](skills/scene-distillation-zine-v1-3) | 从照片提取场景关系与情绪，重创独立插画 | 完整镜像 | 个人非商业 |
+| [Minimal Visual Extract](catalog/image-creation/photo-art/minimal-visual-extract.md) | 上半摄影、下半极简插画的对照海报 | 来源索引 | 未发现明确授权 |
+
+### 更多创意方向
+
+已新增 [9 个候选 Skill 的分类目录与审阅记录](catalog/creative-skills.md)：单色印刷、海报、封面、漫画、信息图、算法艺术、静态视觉、GIF、动态演示。
+
+完整镜像存于 skills/，来源索引与候选评估存于 catalog/。目录分类不改变既有 Skill 的安装路径。候选仅经文本审阅，尚未进行生成效果测试。
 
 ## 安装与使用
 
